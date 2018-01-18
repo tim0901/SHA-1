@@ -1,0 +1,8 @@
+﻿  SHA-1.cpp
+c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(64): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(70): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(76): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(82): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(108): warning C4293: '<<': shift count negative or too big, undefined behavior
+c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(33): warning C4101: 'ml': unreferenced local variable
+LINK : fatal error LNK1168: cannot open C:\Users\alexa\source\repos\SHA-1\Debug\SHA-1.exe for writing
