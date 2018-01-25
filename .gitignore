@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+/.vs/SHA-1/v15
+/x64/Debug
