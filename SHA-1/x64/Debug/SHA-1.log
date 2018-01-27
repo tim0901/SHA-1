@@ -1,8 +1,8 @@
 ﻿  SHA-1.cpp
-c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(83): warning C4804: '<=': unsafe use of type 'bool' in operation
-c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(89): warning C4804: '<=': unsafe use of type 'bool' in operation
-c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(95): warning C4804: '<=': unsafe use of type 'bool' in operation
-c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(101): warning C4804: '<=': unsafe use of type 'bool' in operation
-c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(128): warning C4293: '<<': shift count negative or too big, undefined behavior
-c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(33): warning C4101: 'ml': unreferenced local variable
+c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(107): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(113): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(119): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(125): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(152): warning C4293: '<<': shift count negative or too big, undefined behavior
+c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(51): warning C4101: 'ml': unreferenced local variable
   SHA-1.vcxproj -> C:\Users\alexa\source\repos\SHA-1\x64\Debug\SHA-1.exe
