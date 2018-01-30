@@ -1,15 +1,8 @@
 ﻿  SHA-1.cpp
-c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(107): warning C4244: 'initializing': conversion from 'uint64_t' to 'uint32_t', possible loss of data
-c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(109): warning C4244: 'initializing': conversion from 'uint64_t' to 'uint32_t', possible loss of data
-c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(111): warning C4244: 'initializing': conversion from 'uint64_t' to 'uint32_t', possible loss of data
-c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(112): warning C4244: 'initializing': conversion from 'uint64_t' to 'uint32_t', possible loss of data
-c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(113): warning C4244: 'initializing': conversion from 'uint64_t' to 'uint32_t', possible loss of data
-c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(120): warning C4804: '<=': unsafe use of type 'bool' in operation
-c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(126): warning C4804: '<=': unsafe use of type 'bool' in operation
 c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(132): warning C4804: '<=': unsafe use of type 'bool' in operation
 c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(138): warning C4804: '<=': unsafe use of type 'bool' in operation
-c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(171): warning C4101: 'hh1': unreferenced local variable
-c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(64): warning C4101: 'ml': unreferenced local variable
-c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(172): warning C4101: 'hh2': unreferenced local variable
-c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(255): warning C4715: 'fileStream': not all control paths return a value
+c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(144): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(150): warning C4804: '<=': unsafe use of type 'bool' in operation
+c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(68): warning C4101: 'wordPointer': unreferenced local variable
+c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(299): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
   SHA-1.vcxproj -> C:\Users\alexa\source\repos\SHA-1\x64\Debug\SHA-1.exe
