@@ -1,8 +1,2 @@
 ﻿  SHA-1.cpp
-c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(132): warning C4804: '<=': unsafe use of type 'bool' in operation
-c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(138): warning C4804: '<=': unsafe use of type 'bool' in operation
-c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(144): warning C4804: '<=': unsafe use of type 'bool' in operation
-c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(150): warning C4804: '<=': unsafe use of type 'bool' in operation
-c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(68): warning C4101: 'wordPointer': unreferenced local variable
-c:\users\alexa\source\repos\sha-1\sha-1\sha-1.cpp(299): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
   SHA-1.vcxproj -> C:\Users\alexa\source\repos\SHA-1\x64\Debug\SHA-1.exe
